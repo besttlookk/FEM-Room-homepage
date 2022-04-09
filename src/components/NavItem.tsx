@@ -15,7 +15,7 @@ const ListEl = styled.li`
     }
 
     &:hover {
-      color: black;
+      color: var(--col-gray);
     }
   }
 `;

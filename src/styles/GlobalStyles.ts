@@ -50,7 +50,6 @@ const GlobalStyle = createGlobalStyle`
     font: 12px;
     font-family: var(--font-primary);
     font-weight: 500;
-    overflow: hidden;
   }
 
   li{
