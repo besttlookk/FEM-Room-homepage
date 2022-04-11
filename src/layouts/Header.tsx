@@ -38,6 +38,16 @@ const HeaderWrapper = styled.div`
 
   ${media.tablet} {
     justify-content: flex-start;
+    padding: 0 3rem;
+
+    .logo {
+      margin: 0;
+    }
+  }
+
+  ${media.laptop} {
+    justify-content: flex-start;
+    padding: 0 4rem;
 
     .logo {
       margin: 0;
